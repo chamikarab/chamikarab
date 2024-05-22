@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chamikara Bandara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikarab&label=Profile%20views&color=0e75b6&style=flat" alt="chamikarab" /> </p>
 
 - 🌱 I’m currently learning **laraval,react,node,vue**
