@@ -18,7 +18,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamikara&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="Chamikara's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamikarab&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="Chamikara's GitHub Stats" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamikarab&theme=dark&hide_border=false" /> 
 </td>
