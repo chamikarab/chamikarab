@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikarab&label=Profile%20views&color=0e75b6&style=flat" alt="chamikarab" /> </p>
 
-- 🌱 I’m currently learning **laraval,react,node,vue**
+- 🌱 I’m currently learning **nestjs,nextjs,react,node,vue**
   
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
