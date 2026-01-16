@@ -10,9 +10,9 @@
 </p>
 
 - 🧑‍🎓 Undergraduate at **SLIIT**  
-- 💼 Aspiring **Full-Stack Web & Mobile Developer**  
-- 🌐 Portfolio: **www.chamikarabandara.com**  
-- 📫 Contact: **chamikara38@gmail.com**
+- 💼 **Full-Stack Web & Mobile Developer**  
+- 🌐 Portfolio: **https://www.chamikarabandara.com**  
+- 📫 Email: **chamikara38@gmail.com**
 
 ---
 
@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-<strong>Mobile (App):</strong> Flutter • Dart • Cross-platform Apps  
+<strong>Mobile (App):</strong> Flutter • Dart • Cross-platform Development  
 </p>
 
 ---
@@ -105,12 +105,12 @@
 <h3 align="center">What I Focus On</h3>
 
 <p align="center">
-• Building modern, scalable web applications  
-• Clean, maintainable and professional code  
-• RESTful API design  
-• Responsive UI/UX  
-• Performance and security  
-• Full-stack and mobile solutions  
+• Building modern, scalable full-stack applications  
+• Clean, maintainable, and professional code  
+• Secure and well-structured REST APIs  
+• High-performance web and mobile apps  
+• Pixel-perfect responsive UI/UX  
+• Real-world, production-ready solutions  
 </p>
 
 ---
