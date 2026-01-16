@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Chamikara Bandara</b></h1>
-<h3 align="center">Software Developer | Web Engineer | Tech Enthusiast from Sri Lanka</h3>
+<h3 align="center">
+  Software Developer | Web Engineer | Tech Enthusiast from Sri Lanka
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamikarab&label=Profile%20views&color=0e75b6&style=flat" alt="chamikarab"/>
+  <img src="https://komarev.com/ghpvc/?username=chamikarab&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Software Developer** focused on building modern, scalable, and high-performance web applications. I enjoy working with both frontend and backend technologies and constantly improving my technical skills.
+I am a passionate **Software Developer** focused on building modern, scalable, and user-friendly web applications.  
+I enjoy full-stack development and continuously learning new technologies.
 
 - 🎓 **Undergraduate at SLIIT**
 - 🌱 Currently learning **NestJS & Next.js**
@@ -30,7 +33,7 @@ I am a passionate **Software Developer** focused on building modern, scalable, a
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamikarab&theme=dark&hide_border=false&langs_count=10"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikarab&theme=dark&hide_border=false&langs_count=8&layout=compact"/>
 </p>
 
 ---
@@ -38,16 +41,19 @@ I am a passionate **Software Developer** focused on building modern, scalable, a
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chamikara-bandara-aa9864211/" target="blank">
+<a href="https://www.linkedin.com/in/chamikara-bandara-aa9864211/" target="_blank">
   <img height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
-<a href="https://facebook.com/janitha.chamikara.56/" target="blank">
+
+<a href="https://facebook.com/janitha.chamikara.56/" target="_blank">
   <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
 </a>
-<a href="https://www.instagram.com/chamikara_bandara/" target="blank">
+
+<a href="https://www.instagram.com/chamikara_bandara/" target="_blank">
   <img height="50" width="50" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png"/>
 </a>
-<a href="https://x.com/Chamikara_B" target="blank">
+
+<a href="https://x.com/Chamikara_B" target="_blank">
   <img height="50" width="50" src="https://github.com/chamikarab/chamikarab/assets/113469394/163814ae-7bb1-479f-b216-897a9c8f469c"/>
 </a>
 </p>
