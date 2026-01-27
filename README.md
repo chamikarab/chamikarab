@@ -55,9 +55,6 @@
 <a href="https://www.instagram.com/chamikara_bandara/">
   <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" width="50"/>
 </a>
-<a href="https://x.com/Chamikara_B">
-  <img src="https://github.com/chamikarab/chamikarab/assets/113469394/163814ae-7bb1-479f-b216-897a9c8f469c" width="50"/>
-</a>
 </p>
 
 ---
