@@ -63,7 +63,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-<strong>Frontend:</strong> React • Next.js • JavaScript • Tailwind • Bootstrap • HTML • CSS • Figma  
+<strong>Frontend:</strong> React • Next.js • JavaScript • Tailwind • Bootstrap • HTML • CSS  
 </p>
 
 <p align="center">
