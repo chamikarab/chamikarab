@@ -108,9 +108,9 @@
 • Scalable full-stack applications  
 • Clean & maintainable code  
 • Secure REST APIs  
-• High-performance systems  
+• High performance systems  
 • Responsive modern UI/UX  
-• Real-world production solutions  
+• Real world production solutions  
 </p>
 
 ---
